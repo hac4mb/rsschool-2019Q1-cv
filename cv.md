@@ -7,6 +7,6 @@
 и все кинутся его учить. Но обратное – у джуна время все брать, отовсюду, всегда и т.д.).
 4. HTML CSS 
 5. https://hac4mb.github.io/
-6. https://hac4mb.github.io/, http://sch36.minsk.edu.by, http://geography.sch36.minsk.edu.by
+6. https://hac4mb.github.io/, http://sch36.minsk.edu.by, http://geography.sch36.minsk.edu.by, http://spadchyna.sch36.minsk.edu.by
 7. ISEI of BSU
 8. A2, str.by 12/11/18 - present day
